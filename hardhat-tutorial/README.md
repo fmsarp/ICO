@@ -12,4 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-Crypto Devs Token Contract Address: 0xAa90859298179a726CC6c160BE413BbDeFa14165
+
